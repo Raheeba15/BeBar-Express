@@ -2,8 +2,6 @@
 
 A full-stack bar-themed web application built with Node.js, Express, EJS, and MongoDB. Features a customer-facing storefront, product catalogue, order flow, and a complete admin dashboard for product management.
 
-🔗 **Live Demo:
-https://be-bar-express.vercel.app/
 
 ## Screenshots
 <img width="1344" height="596" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/74bd4414-4cf8-4052-b7d3-bde2d16b4ad5" />
